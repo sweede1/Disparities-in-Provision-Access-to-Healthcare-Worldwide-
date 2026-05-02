@@ -9,6 +9,11 @@
 
 ## Is there a correlation between the amount the government allocates for healthcare from their budget to overall life expectancy.
 <img src= "https://github.com/sweede1/Disparities-in-Provision-Access-to-Healthcare-Worldwide-/blob/main/Correlation.png" alt= "Logo" width="800">
+Correlation Coefficient: -0.286
+Indicators Used:
+1. Life Expectancy
+2. Total net official development assistance to medical research and basic health sectors per capita (US$), by recipient country
+
 
 Lowest Lief expectancy
 <img src= "https://github.com/sweede1/Disparities-in-Provision-Access-to-Healthcare-Worldwide-/blob/main/Lowest%20Life%20Expectancy%20from%20birth.png" alt= "Logo" width="800">
@@ -35,11 +40,11 @@ Wasting during the first six months of life was found to be an independent risk 
 
 ##	What are the top 10 countries with the lowest proportion of the population using safely managed drinking-water services
 <img src= "https://github.com/sweede1/Disparities-in-Provision-Access-to-Healthcare-Worldwide-/blob/main/Lowest%20Access%20to%20Safe%20Water.png" alt= "Logo" width="800">
-1.Malawi
-2.Nepal
-3.Kiribati
-4.Ethiopia
-5.Democratic Republic of Congo
+1. Malawi
+2. Nepal
+3. Kiribati
+4. Ethiopia
+5. Democratic Republic of Congo
 
 
 ##	What are the top 10 countries with the highest proportion of the population using safely managed drinking-water services
@@ -47,7 +52,22 @@ Wasting during the first six months of life was found to be an independent risk 
 The countries in the developed world all have nearly 100% access to safe drinking water.
 
 They Include:
-1.Singapore
-2.New Zealand
-3.Iceland
-4.Denmark
+1. Singapore
+2. New Zealand
+3. Iceland
+4. Denmark
+
+## Indicators
+1. Healthy life expectancy at birth (years)
+2. Population with household expenditures on health > 10% of total household expenditure or income (%)
+3. Population with household expenditures on health > 25% of total household expenditure or income (%)
+4. Life expectancy at birth (years)
+5. Density of medical doctors (per 10 000 population)
+6. Total net official development assistance to medical research and basic health sectors per capita (US$), by recipient country
+7. Prevalence of wasting in children under 5 (%)
+8. Proportion of population using safely-managed drinking-water services (%)
+                       
+## Analysis
+
+
+
