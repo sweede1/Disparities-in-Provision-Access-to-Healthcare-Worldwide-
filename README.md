@@ -8,7 +8,7 @@
 5.	What are the top 10 countries with the highest proportion of the population using safely managed drinking-water services
 
 ## Is there a correlation between the amount the government allocates for healthcare from their budget to overall life expectancy.
-<img src= "" alt= "Logo" width="800"
+<img src= "https://github.com/sweede1/Disparities-in-Provision-Access-to-Healthcare-Worldwide-/blob/main/Correlation.png" alt= "Logo" width="800">
 
 Lowest Lief expectancy
 <img src= "" alt= "Logo" width="800"
