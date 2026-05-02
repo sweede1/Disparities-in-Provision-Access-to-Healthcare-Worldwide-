@@ -24,11 +24,11 @@ Wasting during the first six months of life was found to be an independent risk 
 
 ##	What are the top 10 countries with the lowest proportion of the population using safely managed drinking-water services
 <img src= "https://github.com/sweede1/Disparities-in-Provision-Access-to-Healthcare-Worldwide-/blob/main/Lowest%20Access%20to%20Safe%20Water.png" alt= "Logo" width="800">
-Malawi
-Nepal
-Kiribati
-Ethiopia
-Democratic Republic of Congo
+1.Malawi
+2.Nepal
+3.Kiribati
+4.Ethiopia
+5.Democratic Republic of Congo
 
 
 ##	What are the top 10 countries with the highest proportion of the population using safely managed drinking-water services
@@ -36,7 +36,7 @@ Democratic Republic of Congo
 The countries in the developed world all have nearly 100% access to safe drinking water.
 
 They Include:
-Singapore
-New Zealand
-Iceland
-Denmark
+1.Singapore
+2.New Zealand
+3.Iceland
+4.Denmark
