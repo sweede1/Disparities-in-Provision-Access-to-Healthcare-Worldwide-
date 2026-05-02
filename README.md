@@ -9,7 +9,7 @@
 
 ## Is there a correlation between the amount the government allocates for healthcare from their budget to overall life expectancy.
 ##	Which country has the highest prevalence of wasting in children under 5 years of age
-Highest Prevalence of Child Wasting.png
+<img src="https://github.com/sweede1/Disparities-in-Provision-Access-to-Healthcare-Worldwide-/blob/main/Highest%20Prevalence%20of%20Child%20Wasting.png" alt="Logo" width="200">
 ##	Which country has the lowest prevalence of wasting in children under 5 years of age
 ##	What are the top 10 countries with the lowest proportion of the population using safely managed drinking-water services
 ##	What are the top 10 countries with the highest proportion of the population using safely managed drinking-water services
