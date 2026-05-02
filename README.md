@@ -16,4 +16,4 @@
 ##	What are the top 10 countries with the lowest proportion of the population using safely managed drinking-water services
 <img src= "" alt= "Logo" width="800"
 ##	What are the top 10 countries with the highest proportion of the population using safely managed drinking-water services
- <img src="https://github.com/sweede1/Disparities-in-Provision-Access-to-Healthcare-Worldwide-/blob/main/Highest%20Access%20to%20Safe%20Water.png" alt="Logo" width="800">
+<img src="https://github.com/sweede1/Disparities-in-Provision-Access-to-Healthcare-Worldwide-/blob/main/Highest%20Access%20to%20Safe%20Water.png" alt="Logo" width="800">
