@@ -11,7 +11,7 @@
 <img src= "https://github.com/sweede1/Disparities-in-Provision-Access-to-Healthcare-Worldwide-/blob/main/Correlation.png" alt= "Logo" width="800">
 
 Lowest Lief expectancy
-<img src= "" alt= "Logo" width="800"
+<img src= "https://github.com/sweede1/Disparities-in-Provision-Access-to-Healthcare-Worldwide-/blob/main/Lowest%20Life%20Expectancy%20from%20birth.png" alt= "Logo" width="800">
 
 Household Health Expenditure
 <img src= "" alt= "Logo" width="800"
