@@ -9,6 +9,17 @@
 
 ## Is there a correlation between the amount the government allocates for healthcare from their budget to overall life expectancy.
 <img src= "" alt= "Logo" width="800"
+
+Lowest Lief expectancy
+<img src= "" alt= "Logo" width="800"
+
+Household Health Expenditure
+<img src= "" alt= "Logo" width="800"
+
+Lowest Density of Doctors
+<img src= "" alt= "Logo" width="800"
+
+
 ##	Which country has the highest prevalence of wasting in children under 5 years of age
 <img src="https://github.com/sweede1/Disparities-in-Provision-Access-to-Healthcare-Worldwide-/blob/main/Highest%20Prevalence%20of%20Child%20Wasting.png" alt="Logo" width="800">
 India has the highest incidence of wasting in children under the age of 5 years.
