@@ -17,7 +17,7 @@ Household Health Expenditure
 <img src= "https://github.com/sweede1/Disparities-in-Provision-Access-to-Healthcare-Worldwide-/blob/main/Household%20Health%20Expenditure.png" alt= "Logo" width="800">
 
 Lowest Density of Doctors
-<img src= "" alt= "Logo" width="800"
+<img src= "https://github.com/sweede1/Disparities-in-Provision-Access-to-Healthcare-Worldwide-/blob/main/Lowest%20Density%20of%20Medical%20Doctors.png" alt= "Logo" width="800">
 
 
 ##	Which country has the highest prevalence of wasting in children under 5 years of age
